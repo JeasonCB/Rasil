@@ -1,10 +1,10 @@
 /* eslint-disable space-before-function-paren */
 // import Head from 'next/head'
 // import Image from 'next/image'
-import { Text, Grid, Card, Spacer, Container, Row, Col } from '@nextui-org/react'
-import Image from 'next/image'
+import { Grid, Container } from '@nextui-org/react'
+
 import Layout from '../components/Layout/layout'
-import sea from '../../public/s.jpg'
+
 import Presentation from '../components/Film/Presentation'
 import { motion } from 'framer-motion'
 

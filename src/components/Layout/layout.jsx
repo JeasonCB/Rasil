@@ -3,8 +3,6 @@ import Head from 'next/head'
 // import styles from '../../styles/layout.module.css'
 import Nav from '../Navbar/Nav'
 import { Grid } from '@nextui-org/react'
-import Presentation from '../Film/Presentation'
-import PR from '../Film/.PR'
 
 const Layout = ({ children, title }) => {
   return (
@@ -18,7 +16,7 @@ const Layout = ({ children, title }) => {
       {/* esto "⬇" va en Index para que solo se renderize en la home */}
 
       <Grid.Container css={{ overflow: 'hidden' }}>
-      {children}
+        {children}
       </Grid.Container>
       {/* <Container css={{ pt: '76px', userSelect: 'none' }}>{children} </Container> */}
     </>

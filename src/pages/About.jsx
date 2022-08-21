@@ -1,4 +1,4 @@
-import { Grid, Spacer, Text, Container } from '@nextui-org/react'
+import { Text } from '@nextui-org/react'
 
 import Layout from '../components/Layout/layout'
 

@@ -4,10 +4,8 @@ import { motion } from 'framer-motion'
 // eslint-disable-next-line no-unused-vars
 import { Col, Row, Text, Container, Grid, Collapse, Link } from '@nextui-org/react'
 // eslint-disable-next-line no-unused-vars
-import animation from '../../animation/animation'
 import { useState } from 'react'
 import NLink from 'next/link'
-import sea from '../../../public/s.jpg'
 import LinkC from './LinkMobile'
 import LinkPC from './LinkPC'
 

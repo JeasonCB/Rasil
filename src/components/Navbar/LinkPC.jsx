@@ -1,4 +1,4 @@
-import { Grid, Link, Text } from '@nextui-org/react'
+import { Grid, Link } from '@nextui-org/react'
 import NLink from 'next/link'
 
 // eslint-disable-next-line space-before-function-paren
