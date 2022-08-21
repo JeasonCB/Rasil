@@ -1,4 +1,4 @@
-import { Grid, Text, Button, Spacer, Col, Row } from '@nextui-org/react'
+import { Text, Button, Row } from '@nextui-org/react'
 import { AnimatePresence, motion } from 'framer-motion'
 import { useState } from 'react'
 import Lpr from './Lpr'
