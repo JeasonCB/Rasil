@@ -25,7 +25,6 @@ export default function PR() {
               exit={{ opacity: 0, scale: 2.4, transition: { delay: 0, duration: 2 } }}>#HotelesRasil </Text>)}
 
           {count === 1 && (
-            console.log(count),
             <Text css={{ fs: '7vw', '@xs': { fs: '4vw' }, position: 'absolute', pt: '10px' }}
               as={motion.h1}
               key={count && setTimeout(() => {
