@@ -6,7 +6,7 @@ const About = () => {
   return (
     <>
       <Layout title={'About'} />
-<Text></Text>
+<Text>Estas en About</Text>
     </>
   )
 }
